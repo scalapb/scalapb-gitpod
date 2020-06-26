@@ -1,2 +1,8 @@
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - zxh404.vscode-proto3@0.4.2:ZnPmyF/Pb8AIWeCqc83gPw==
+    - scala-lang.scala@0.3.9:O5XmjwY5Gz+0oDZAmqneJw==
+    - scalameta.metals@1.9.0:KNju0fLBpNiyqH8qBfFeIQ==
