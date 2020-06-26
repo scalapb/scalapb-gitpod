@@ -1,0 +1,10 @@
+-Dsbt.coursier.home=/.metals/coursier
+-Dcoursier.cache=/.metals/coursier
+-Dsbt-dir=/.metals/sbt
+-Dsbt-boot=/.metals/sbt/boot
+-Divy=/.metals/.ivy2
+-Dsbt.coursier.home=/home/thesamet/dev/scalapb-gitpod/.metals/coursier
+-Dcoursier.cache=/home/thesamet/dev/scalapb-gitpod/.metals/coursier
+-Dsbt-dir=/home/thesamet/dev/scalapb-gitpod/.metals/sbt
+-Dsbt-boot=/home/thesamet/dev/scalapb-gitpod/.metals/sbt/boot
+-Divy=/home/thesamet/dev/scalapb-gitpod/.metals/.ivy2
